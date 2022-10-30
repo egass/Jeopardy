@@ -1,0 +1,5 @@
+Baseball|This team has won the most baseball World Series'|Yankees
+Baseball|The lengthened name for this baseball statistic stands for "Wins above replacement"|WAR
+Baseball|This baseball player is lovingly known as "Big Papi"|David Ortiz
+Baseball|This is the amount of games in each regular baseball season|162
+Baseball|This award is given to the best defensive baseball player at each position|Gold Glove

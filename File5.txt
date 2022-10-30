@@ -1,0 +1,5 @@
+Celebrities|This celebrity is known as the "King of Pop"|Michael Jackson
+Celebrities|This is the name of the first James Bond movie that Daniel Craig starred in|Casino Royale
+Celebrities|This actor voiced Darth Vader|James Earl Jones
+Celebrities|This is the height of famous singer-songwriter Taylor Swift in inches|71
+Celebrities|This is the first name that Oprah Winfrey was born with|Orpah

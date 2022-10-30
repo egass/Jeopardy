@@ -1,0 +1,5 @@
+Potatoes|This country experienced a great potato famine in the 1800s|Ireland
+Potatoes|The potato is this part of the plant|Root
+Potatoes|A potato is this percent water (only put a number, no percent sign)|80
+Potatoes|The potato is this state's official state vegetable|Idaho
+Potatoes|This country is the country where the potato originated|Peru

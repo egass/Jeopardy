@@ -1,0 +1,5 @@
+Animals|This is the color of a giraffe's tongue|Purple
+Animals|This is the tallest mammal on earth|Giraffe
+Animals|This animal has the lowest sleep requirement of any mammal|Giraffe
+Animals|The Latin name for this animal means ‘one who walks quickly, a camel marked like a leopard’|Giraffe
+Animals|This is the only mammal without vocal chords|Giraffe

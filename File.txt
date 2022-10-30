@@ -1,0 +1,5 @@
+C++|This namespace is commonly used in C++|std
+C++|This is also known as an array of characters|string
+C++|This table is mostly used for converting characters to integers and vice versa|ASCII
+C++|This is the 'character' is getline looking for|Newline
+C++|This array like object has no restriction to its size after creation|Vector
